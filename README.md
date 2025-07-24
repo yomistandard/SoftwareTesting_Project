@@ -1,6 +1,6 @@
-# 📝 Assignment 5: Test Management for Word Puzzle Game
+Software Test Management for Word Puzzle Game and Task Manager
 
-## 🎯 Learning Objectives
+## 🎯  Objectives
 
 * Understand the components of a test plan (objectives, scope, resources, schedule)
 * Apply entry and exit criteria to a testing process
@@ -47,9 +47,7 @@ Create a `Test_Plan.md` file with the following sections:
 > * In scope: Game logic, scoring system
 > * Out of scope: Browser compatibility
 
-### 3. Resources
 
-* **Team roles**: 1 tester
 * **Tools**: Browser DevTools, JS console
 * **Environment**: Chrome browser
 
