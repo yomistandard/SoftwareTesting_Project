@@ -1,4 +1,3 @@
-Certainly! Here's your document rewritten with first-person pronouns where appropriate to make it more personalized and reflective of your involvement:
 
 ---
 
@@ -131,6 +130,6 @@ I will push all my work to my GitHub repository, including:
 
 ---
 
-Let me know if you'd like me to assist with creating the actual markdown files or specific test cases!
+
 ---
 
